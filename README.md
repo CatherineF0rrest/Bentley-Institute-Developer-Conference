@@ -1,2 +1,2 @@
-# Bentley-Institute-Developer-Conference
+# Bentley Institute Developer Conference Certification 
 Bentley Institute Developer Conference 
